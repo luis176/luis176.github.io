@@ -1,20 +1,35 @@
 div{
 
-    background-color: bisque;
-    width: 50%;
+    background-color: rgb(136, 136, 136);
+    width: 150px;
     text-size-adjust: height;
     margin: 20px 0;
-    padding: 0px;
-    text-align: justify;
+    padding: 11px;
+    text-align: center;
     font-size: 30px;
-    font-family:'Courier New', Courier, monospace;
-
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(212, 212, 212);
+    border-radius: 5px 20px;
+    display: inline-block;
+    border-left: 5px dashed rgb(255, 255, 255);
+    border-bottom: 5px dashed rgb(255, 255, 255);
 }
 
 body{
-
-    font-size:larger;
-
-
+    background-color: rgb(42, 77, 58);
+    font-size:25px;
+    text-align: center;
+    color: rgb(238, 255, 0);
+    text-align: left;
 }
 
+img{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 210px;
+    margin: 10px 5px;
+    padding: 5px;
+    border: 15px dotted rgb(48, 214, 48);
+
+}
