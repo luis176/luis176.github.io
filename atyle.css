@@ -3,7 +3,7 @@ div{
     background-color: rgb(136, 136, 136);
     width: 150px;
     text-size-adjust: height;
-    margin: 20px 0;
+    margin: 20px 10px;
     padding: 11px;
     text-align: center;
     font-size: 30px;
@@ -16,7 +16,7 @@ div{
 }
 
 body{
-    background-color: rgb(42, 77, 58);
+    background-color: rgba(15, 68, 39, 0.87);
     font-size:25px;
     text-align: center;
     color: rgb(238, 255, 0);
